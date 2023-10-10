@@ -1,0 +1,12 @@
+.resset-button {
+    margin-top: 2em;
+    padding: 1em;
+    background-color:#BF2A7B;
+    color: white;
+    font-size: 1em;
+    border: 0;
+    transition: background-color ease-in-out .3s;
+}
+.resset-button:hover {
+    background-color: #bf2a7c83;
+}
